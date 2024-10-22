@@ -1,0 +1,1 @@
+1. Application my-fastapi-app has been successfully deployed!!
